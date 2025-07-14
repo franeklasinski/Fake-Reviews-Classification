@@ -17,6 +17,7 @@ Projekt implementuje 5 różnych podejść machine learning do klasyfikacji rece
 ## Dataset
 
 **kaggle** https://www.kaggle.com/datasets/mexwell/fake-reviews-dataset
+
 Dataset zawiera:
 - **Tekst recenzji** + **Etykiety** (CG=Fake, OR=Real)
 - **Kategorie produktów** + **Oceny** (1-5 gwiazdek)
