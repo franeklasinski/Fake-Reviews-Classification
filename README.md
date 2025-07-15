@@ -76,4 +76,3 @@ python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
 - GitHub: [@franeklasinski](https://github.com/franeklasinski)
 
 ---
-
